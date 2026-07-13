@@ -27,3 +27,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=28578184892&theme=dark&hide_border=true" alt="28578184892" /></p>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@de1570ee-bde2-4459-82ca-e543766cd43a/53201bdc-0ac9-4781-b322-8b87f12bed1b.png" /></a>
 
+感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐️ 或者关注我，我会继续分享更多有趣的内容。
+
+ [![My Skills](https://skillicons.dev/icons?perline=20&i=js,html,css,bash,git,yarn,windows,webpack,vite,vscode,ts,tailwind,svg,sqlite,react,postman,pnpm,pinia,php,ps,npm,nodejs,nginx,mysql,md,linux,github,arch,babel,bootstrap,c,cpp,clion,cloudflare,codepen,docker,express)](https://skillicons.dev)
